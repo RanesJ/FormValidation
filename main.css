@@ -1,0 +1,22 @@
+.bodyContainer{
+    margin:0 auto;
+    width:700px;
+
+}
+.signUpContainer{
+    display: block;
+    
+}
+input[type="text"],input[type="email"],input[type="password"]{
+    padding:5px;
+    display: block;
+    width:100%;
+    max-width: 400px;
+}
+label{
+    display: block;
+    
+}
+.signUpForm{
+    padding-top: 5px;
+}
