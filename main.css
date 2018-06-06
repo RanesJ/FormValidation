@@ -3,20 +3,29 @@
     width:700px;
 
 }
+h1{
+    font-family: helvetica;
+    letter-spacing: 3.1px;
+    font-size: 43px;
+}
 .signUpContainer{
     display: block;
-    
+    margin:0 auto;
+    max-width: 440px;
 }
 input[type="text"],input[type="email"],input[type="password"]{
-    padding:5px;
-    display: block;
+    padding-top:5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
     width:100%;
-    max-width: 400px;
+    max-width: 436px;
 }
 label{
     display: block;
+    padding-top:35px;
     
 }
+
 .signUpForm{
     padding-top: 5px;
 }
